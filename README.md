@@ -1,2 +1,2 @@
-# jgurlova.tindig.github.io
+# jgurlova.tindog.github.io
 Dog Social Media Website
